@@ -1,0 +1,15 @@
+# WordPress
+wp-admin/
+wp-includes/
+wp-*.php
+index.php
+xmlrpc.php
+wp-content/plugins/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/cache/
+wp-config.php
+
+# System files
+.DS_Store
+Thumbs.db
